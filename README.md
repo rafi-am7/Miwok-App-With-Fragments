@@ -10,6 +10,8 @@ In our app we will build an app which will help to translate Bengali to English 
 * Viewpager
 * Fragments
 * Custom Fragment Adapter
+* MediaPlayer
+* Audio Manager
 
 ## Project Screenshots
 
